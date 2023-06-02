@@ -1,0 +1,141 @@
+academy	address	afternoon	aisle	animal	art
+accident	adjective	age	alarm	anniversary	atom
+accommodations	adjustment	agency	album	answer	attempt
+account	adult	agenda	alcohol	ant	attention
+accountant	advantage	agent	alcoholic	apple	attraction
+achievement	adventure	agreement	alien	approval	aunt
+act	adverb	aim	allergy	architecture	authority
+action	advertisement	air	alphabet	area
+activity	advice	airbag	amusement	argument
+actor	advocate	airplane	angel	arm
+ad	affair	airport	anger	army
+B
+baby	bat	beef	birthday	book	breath
+bag	bath	beetle	biscuit	boot	brick
+balance	battle	beggar	bite	border	bridge
+ball	beach	beginner	blanket	bottle	brother
+balloon	bean	behavior	blood	bottom	bucket
+banana	bear	belief	blouse	box	building
+band	beast	bell	board	boy	bulb
+bank	beauty	bike	boat	brain	business
+bar	bed	bird	body	branch	butter
+basket	bedroom	birth	bomb	bread	butterfly
+basketball	bee	bone	breakfast	button
+C
+cab	carpenter	change	clock	competition	cover
+cable	carpet	channel	closet	computer	cow
+cafeteria	cartoon	cheese	cloth	condition	creature
+cake	cast	cherry	cloud	connection	credit
+calculator	cat	chess	club	control	crime
+calendar	cave	chicken	coach	cook	crow
+camera	cemetery	children	coal	copy	crowd
+camp	cent	chin	coast	corn	crown
+can	chain	church	coat	corner	cup
+cap	chair	circle	color	couch	curtain
+car	chalk	class	comb	cough
+card	chance	classroom	company	country
+D
+dad	death	dinner	disease	doll	dress
+dance	debt	direction	dish	donkey	drink
+danger	decision	dirt	distance	door	drug
+daughter	desk	discovery	doctor	drawer	duck
+day	detail	discussion	dog	dream	dust
+E
+ear	effect	elevator	entrance	event	existence
+earring	effort	embassy	envelope	evidence	experience
+Earth	egg	emergency	episode	example	experiment
+earthquake	elbow	employee	eraser	exchange	expert
+economy	election	enemy	error	excuse	eye
+editor	electricity	energy	essay	exercise
+education	elephant	entertainment	evening	exhibition
+F
+face	farmer	field	flag	food	friend
+fact	father	fight	flight	foot	frog
+fall	fear	finger	floor	force	front
+family	feather	fire	flower	fork	fruit
+fan	feeling	fireman	fly	form	fuel
+farm	feet	fish	fog	frame	furniture
+G
+game	giraffe	glue	governor	grape	guide
+garden	girl	goat	grade	grass	guitar
+gate	glass	gold	grandfather	ground	gun
+ghost	glove	government	grandmother	group
+I
+ice	income	ink	instrument	island
+idea	industry	insect	insurance
+J
+jail	jar	jewel	journey	juice
+jam	jeans	joke	judge
+K
+key	kite	knife
+kiss	knee	knowledge
+L
+lake	leg	liquid
+lamp	letter	list
+land	library	lock
+language	light	love
+lawyer	limit	lunch
+leaf	lip
+M
+machine	mark	meat	minute	moon
+magic	market	meeting	mom	morning
+man	mask	memory	money	mother
+manager	match	memory	monkey	mountain
+map	meal	milk	month	mouth
+music	mind
+N
+nail	nation	nest	night	north	note	number
+name	neck	news	noise	nose	notebook
+O
+observation	offer	oil	opinion	organization	owner
+ocean	office	operation	orange	oven
+P
+page	part	pen	pizza	point	powder
+pain	partner	pencil	place	poison	power
+paint	party	person	plane	police	price
+paper	passenger	pet	plant	pollution	print
+parcel	payment	picture	plastic	popcorn	prison
+parent	peace	pie	plate	position	profit
+park	pear	pig	pocket	potato	property
+pull	punishment	purpose
+Q
+queen	quicksand
+question	quilt
+R
+rabbit	rate	religion	rice	rock	rose
+railway	reason	request	ring	roof	rule
+rain	record	respect	river	room
+rat	relation	reward	road	root
+S
+salt	ship	size	soap	spy	stop
+sand	shirt	skin	society	stage	story
+school	shock	skirt	sock	stamp	stove
+science	shoe	sky	son	star	stranger
+scissors	shop	slave	song	start	street
+sead	show	sleep	sound	statement	sugar
+seat	sidewalk	smile	soup	station	suit
+secretary	sign	smoke	space	step	summer
+sense	silk	snake	spider	stick	sun
+shade	sink	sneeze	spoon	stomach	surprise
+shelf	sister	snow	spring	stone	sweater
+system
+T
+table	teeth	thunder	tomato	town	trick
+tail	test	ticket	tongue	toy	trip
+talk	theory	tiger	tooth	train	trouble
+taste	thing	time	toothbrush	transport	trousers
+tax	thought	title	toothpaste	treatment	turkey
+team	throat	toe	top	tree	turn
+U
+umbrella	underwear
+uncle	unit
+V
+vacation	vegetable	visitor	volleyball
+van	view	voice	voyage
+W - X - Y - Z
+wall	way	wind	woman	wound
+war	wealth	window	wood	writer
+waste	weather	wine	wool	yard
+watch	week	wing	word	zoo
+water	weight	winter	work
+wave	whistle	wish	worm
